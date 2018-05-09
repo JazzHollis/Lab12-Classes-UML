@@ -1,0 +1,7 @@
+C:\Users\rjkgi\source\repos\Lab12-Classes\Lab12-Classes\bin\Debug\Lab12-Classes.exe.config
+C:\Users\rjkgi\source\repos\Lab12-Classes\Lab12-Classes\bin\Debug\Lab12-Classes.exe
+C:\Users\rjkgi\source\repos\Lab12-Classes\Lab12-Classes\bin\Debug\Lab12-Classes.pdb
+C:\Users\rjkgi\source\repos\Lab12-Classes\Lab12-Classes\obj\Debug\Lab12-Classes.csprojResolveAssemblyReference.cache
+C:\Users\rjkgi\source\repos\Lab12-Classes\Lab12-Classes\obj\Debug\Lab12-Classes.csproj.CoreCompileInputs.cache
+C:\Users\rjkgi\source\repos\Lab12-Classes\Lab12-Classes\obj\Debug\Lab12-Classes.exe
+C:\Users\rjkgi\source\repos\Lab12-Classes\Lab12-Classes\obj\Debug\Lab12-Classes.pdb
